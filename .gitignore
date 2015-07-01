@@ -1,1 +1,17 @@
+#-----------------------
+# Sublime project files
+#-----------------------
+#
+
 *.sublime-project
+
+#-----------------------
+# LaTex Generated files
+#-----------------------
+#
+
+*.aux
+*.fdb_latexmk
+*.log
+*.pdf
+*.gz
